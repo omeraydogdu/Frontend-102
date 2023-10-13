@@ -1,0 +1,30 @@
+.img{
+    text-align: center;
+    margin-top: 100px;
+}
+article{
+    text-align: center;
+}
+
+.container1{
+    margin: auto;
+    float: left;
+    background-color: aqua;
+    width: 700px;
+    height: 150px;
+}
+.container2{
+    margin-left:3px;
+    background-color: rgb(17, 232, 232);
+    float: left;
+    height: 150px;
+    width:250px;
+}
+.container3{
+    margin-left: 3px;
+    background-color: rgb(17, 232, 232);
+    float: left;
+    height: 150px;
+    width: 563px;
+}
+
